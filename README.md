@@ -15,7 +15,7 @@ Anti-Tamper software built into Roblox Game.
 local cubismSecurity = require(path.to.module)
 local Client, Server = cubismSecurity.Client, cubismSecurity.Server
 
--- # waiting for loading to prevent problems
+-- # waiting for loading to prevent unexpected problems
 Client._promiseThread:await()
 Server._promiseThread:await()
 
