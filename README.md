@@ -33,4 +33,4 @@ end)
 ```
 
 ## License
-Cubism Security is available under the MIT license. See [LICENSE](LICENSE) for details.
+Cubism Security is available under the Apache 2.0 license. See [LICENSE](LICENSE) for details.
