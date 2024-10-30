@@ -1,5 +1,5 @@
 <div align="center">
-<img src="content/cubismSecurity.png" alt="cubismSecurity.png" width=400></img>
+<img src="cubismSecurity.png" alt="cubismSecurity.png" width=400></img>
 <h1>Cubism Security</h1>
 Anti-Tamper software built into Roblox Game.
 </div>
