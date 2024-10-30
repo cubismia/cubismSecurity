@@ -8,6 +8,7 @@ Anti-Tamper software built into Roblox Game.
 > Cubism Security is under development and may not be stable!
 
 # Demo
+https://www.roblox.com/games/17447723961/testez-cubismSecurity
 
 ## Example Usage
 ```lua
