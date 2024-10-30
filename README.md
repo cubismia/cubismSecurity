@@ -14,15 +14,16 @@ Anti-Tamper software built into Roblox Game.
 local cubismSecurity = require(path.to.module)
 local Client, Server = cubismSecurity.Client, cubismSecurity.Server
 
+-- # waiting for downloading to prevent problems
 Client._promiseThread:await()
 Server._promiseThread:await()
 
 Server.ClientProtocolFailure:Connect(function(player: Player, ConnectionError: Enum.ConnectionError?, ...)
-	warn(player, ConnectionError, ...)
+     warn(player, ConnectionError, ...)
 end)
 
 Players.PlayerAdded:Connect(function(player: Player)
-	print(Client.CreateUserClient(player))
+     print(Client.CreateUserClient(player))
 end)
 ```
 
