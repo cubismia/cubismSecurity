@@ -1,1 +1,2 @@
--- code is currently hidden
+--!strict
+-- # Cubism Security is in development, code will be posted later.
