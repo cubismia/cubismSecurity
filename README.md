@@ -11,6 +11,7 @@ Anti-Tamper software built into Roblox Game.
 
 ## Example Usage
 ```lua
+--!strict
 local cubismSecurity = require(path.to.module)
 local Client, Server = cubismSecurity.Client, cubismSecurity.Server
 
