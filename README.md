@@ -1,6 +1,6 @@
 <div align="center">
 <img src="Icon.png" alt="cubismSecurity.png" width=200></img>
-<h1>Cubism Security</h1>
+<h1></h1>
 Anti-Tamper software built into Roblox Game.
 </div>
 
