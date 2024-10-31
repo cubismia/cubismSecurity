@@ -10,7 +10,8 @@ Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/cubismia/cubismSecurity/blob/main/LICENSE)
 [![Release](https://img.shields.io/badge/version-0.2.1-blue)](https://github.com/cubismia/cubismSecurity/releases/tag/v0.2.1)
 
-# Demo
+## Get Started
+> The project is under development, the code is not planned for publication in the near future.
 https://www.roblox.com/games/17447723961/testez-cubismSecurity
 
 ## Example Usage
