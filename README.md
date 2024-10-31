@@ -11,8 +11,8 @@ Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game
 [![Release](https://img.shields.io/badge/version-0.2.1-blue)](https://github.com/cubismia/cubismSecurity/releases/tag/v0.2.1)
 
 ## Get Started
-> The project is under development, the code is not planned for publication in the near future.
 https://www.roblox.com/games/17447723961/testez-cubismSecurity
+> The project is in development, currently not scheduled for publication.
 
 ## Example Usage
 ```lua
