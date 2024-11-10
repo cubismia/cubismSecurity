@@ -4,7 +4,7 @@
 Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game.
 </div>
 
-> [!NOTE]
+> [!WARNING]
 > Cubism Security is under development and may not be stable!
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://github.com/cubismia/cubismSecurity/blob/main/LICENSE)
