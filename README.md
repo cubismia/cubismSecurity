@@ -15,8 +15,8 @@ Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game
 https://www.roblox.com/games/17447723961/testez-cubismSecurity
 > Currently not scheduled for publication.
 
-## Example Usage
-```lua
+##
+```luau
 --!strict
 local cubismSecurity = require(path.to.module)
 local Client, Server = cubismSecurity.Client, cubismSecurity.Server
