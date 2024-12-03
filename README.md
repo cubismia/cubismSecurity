@@ -13,7 +13,6 @@ Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game
 
 ## Get Started
 https://www.roblox.com/games/17447723961/testez-cubismSecurity
-> Currently not scheduled for publication.
 
 ##
 ```luau
