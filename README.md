@@ -36,8 +36,8 @@ end)
 ## What is it?
 Cubism Security is Anti-Tamper software built into Roblox Game as part of countering exploiting on Roblox!
 
-* Exens - completely redesigned client build, such as server-side character replication, to prevent conflicts with cubismSecurity
-* Analytics - one of the security plugins that monitors and sends information about all client-server activities
+* Exens - completely redesigned client build, such as server-side character replication, to prevent conflicts with cubismSecurity.
+* Analytics - one of the security plugins that monitors and sends information about all client-server activities.
 
 ## Anti-Tamper Operational Status
 ✔ Operational | ➖ Partially Implemented | ❌ Unimplemented
