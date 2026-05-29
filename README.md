@@ -12,7 +12,7 @@ Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game
 [![Language](https://img.shields.io/badge/language-Luau-blue.svg)](https://luau.org)
 
 ## Get Started
-https://www.roblox.com/games/17447723961/testez-cubismSecurity
+https://www.roblox.com/games/17447723961/cubismSecurity
 
 ##
 ```luau
