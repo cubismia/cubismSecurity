@@ -8,7 +8,7 @@ Anti-Tamper software built into <a href="https://www.roblox.com">Roblox<a/> Game
 > Cubism Security is under development and may not be stable!
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://github.com/cubismia/cubismSecurity/blob/main/LICENSE)
-[![Release](https://img.shields.io/badge/version-0.2.1-blue)](https://github.com/cubismia/cubismSecurity/releases/tag/v0.2.1)
+[![Release](https://img.shields.io/badge/version-2.9b-blue)](https://github.com/cubismia/cubismSecurity/releases/tag/v2.9b)
 [![Language](https://img.shields.io/badge/language-Luau-blue.svg)](https://luau.org)
 
 ## Get Started
