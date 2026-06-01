@@ -17,8 +17,8 @@ https://www.roblox.com/games/17447723961/cubismSecurity
 ##
 ```luau
 --!strict
-local cubismSecurity = require(path.to.module)
-local Client, Server = cubismSecurity.Client, cubismSecurity.Server
+const cubismSecurity = require(path.to.module)
+const Client, Server = cubismSecurity.Client, cubismSecurity.Server
 
 -- # waiting for loading to prevent unexpected problems
 Client._promiseThread:await()
