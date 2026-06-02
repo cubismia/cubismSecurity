@@ -21,8 +21,8 @@ https://www.roblox.com/games/17447723961/cubismSecurity
 const cubismSecurity = require(path.to.module)
 const Client, Server = cubismSecurity.Client, cubismSecurity.Server
 
-Server.ConnectionError:Connect(function(player: Player, ConnectionError: Enum.ConnectionError?, ...)
-     warn(player, ConnectionError, ...)
+Server.ConnectionError:Connect(function(player: Player, ErrorReason: string, ...)
+     warn(player, ErrorReason, ...)
 end)
 
 Players.PlayerAdded:Connect(function(player: Player)
