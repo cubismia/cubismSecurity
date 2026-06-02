@@ -16,15 +16,12 @@ https://www.roblox.com/games/17447723961/cubismSecurity
 
 ##
 ```luau
+--!optimize 2
 --!strict
 const cubismSecurity = require(path.to.module)
 const Client, Server = cubismSecurity.Client, cubismSecurity.Server
 
--- # waiting for loading to prevent unexpected problems
-Client._promiseThread:await()
-Server._promiseThread:await()
-
-Server.ClientProtocolFailure:Connect(function(player: Player, ConnectionError: Enum.ConnectionError?, ...)
+Server.ConnectionError:Connect(function(player: Player, ConnectionError: Enum.ConnectionError?, ...)
      warn(player, ConnectionError, ...)
 end)
 
